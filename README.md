@@ -1,4 +1,4 @@
-# we-get-cars
+# we-got-cars
 
 ## Project setup
 ```
